@@ -11,3 +11,9 @@ AI.Techniques.for.Game.Programming source code
 
 AI.Techniques.for.Game.Programming sourcecode
 
+
+网友根据本书 用rust实现的 人工智能玩愤怒的小鸟
+
+https://planet0104.github.io/neat-flappy-bird/deploy/index.html
+
+![](1.png)
